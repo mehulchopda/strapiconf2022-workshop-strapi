@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "buddies",
+  "info": {
+    "singularName": "buddy",
+    "pluralName": "buddies",
+    "displayName": "Buddy"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "travelDate": {
+      "type": "datetime"
+    },
+    "message": {
+      "type": "text"
+    },
+    "serviceProvider": {
+      "type": "boolean"
+    }
+  }
+}
