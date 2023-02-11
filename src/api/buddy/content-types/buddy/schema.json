@@ -4,7 +4,8 @@
   "info": {
     "singularName": "buddy",
     "pluralName": "buddies",
-    "displayName": "Buddy"
+    "displayName": "Buddy",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -25,6 +26,9 @@
     },
     "serviceProvider": {
       "type": "boolean"
+    },
+    "uid": {
+      "type": "uid"
     }
   }
 }
