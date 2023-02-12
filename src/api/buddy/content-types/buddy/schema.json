@@ -29,6 +29,12 @@
     },
     "uid": {
       "type": "uid"
+    },
+    "email": {
+      "type": "email"
+    },
+    "phoneNumber": {
+      "type": "string"
     }
   }
 }
