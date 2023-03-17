@@ -35,6 +35,9 @@
     },
     "phoneNumber": {
       "type": "string"
+    },
+    "agreeTerms": {
+      "type": "boolean"
     }
   }
 }
